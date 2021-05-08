@@ -7,6 +7,7 @@ public class Car4 {
 	
 	//생성자
 	
+	
 	//메소드
 	int getSpeed() {
 		return speed;
